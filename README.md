@@ -11,6 +11,7 @@ Alunos:
 
 Funcionalidades não implementadas:
   -A entrega dos docker containers encontra-se potencialmente mal feita.
+  -Cada aluno entrega o seu container (devido à perda do nosso site).
   -Professor, o nosso grupo perdeu o site 3 vezes, no entanto temos um pc de back-up com o site a funcionar e antes de perdermos o site,      
    gravámos um pequeno video a demonstrar as funcionalidades, juntamente com um documento word sobre a especificação do web-site.
   -Na oral iremos demonstrar pelo pc de backup o nosso site (Como perdemos o nosso site oficial, este site que iremos demonstrar inclui           
