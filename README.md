@@ -17,9 +17,7 @@ Funcionalidades não implementadas:
   -Na oral iremos demonstrar pelo pc de backup o nosso site (Como perdemos o nosso site oficial, este site que iremos demonstrar inclui           
    cerca de 90 % do original).
   -Ponto 5: Input de utilizador e output das respostas mal implementadas
-  -Ponto 3: Não consegui executar o ficheiro bash (app.sh ao executar na wordpress parece a mensagem de erro “the server where this page is         
-            located instalar responding” entretanto criei um método que cria um ficheiro.html e parece a tabela nesse ficheiro html) no       
-             wordpress, não consegui arranjar um mecanismo em que o cliente pode evitar extrair a segunda vez o mesmo ficheiro pdf.
+  -Ponto 3: Não conseguiu executar o ficheiro bash (app.sh ao executar na wordpress parece a mensagem de erro “the server where this page is located isn't responding” entretanto criou um método que cria um ficheiro.html e aparece a tabela nesse ficheiro html) no wordpress, não conseguiu arranjar um mecanismo em que o cliente pode evitar extrair a segunda vez o mesmo ficheiro pdf.
   -Ponto 4: ponto d.) e metade do ponto c.)
   
   
